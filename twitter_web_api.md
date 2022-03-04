@@ -4,7 +4,7 @@
 |---|---|---|
 |GET|/users/{user_id}|ユーザ(user_id)の取得|
 |GET|/users/{user_id}/tweets|ユーザ(user_id)のツイートの一覧を取得|
-|POST|/tweets|ユーザ(user_id)のツイートの作成|
+|POST|/tweets|ツイートの作成|
 |DELETE|/tweets/{tweet_id}|tweet_id を受け取ってツイートの削除|
 |POST|/tweets/{tweet_id}/replies|リプライを作成|
 |POST|/tweets/{tweet_id}/retweets|リツイートの作成|
